@@ -34,9 +34,9 @@ float calcularMedia(float * notas) {
 
 //função analisarMedia
 void analisarMedia(float media) {
-  if (media > 6.0) {
+  if (media >= 6.0) {
     printf("aprovado com media: %.2f", media);
-  } else if (media > 4.0) {
+  } else if (media >= 4.0) {
     printf("fazer exame com media: %.2f", media);
   } else {
     printf("reprovado com media: %.2f", media);
