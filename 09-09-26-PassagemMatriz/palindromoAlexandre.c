@@ -2,11 +2,11 @@
 	Name: palindromoAlexandre
 	Author: Luiz F Rodrigues
 	Date: 09/09/26 10:10
-	Description: exercicio de palindromo resolvido pelo professor Alexandre (+desafio tirar os espaços em branco)
+	Description: exercicio de palindromo resolvido pelo professor Alexandre (+desafio tirar os espacos em branco)
 */
 
 #include <stdio.h>
- //Prototipação
+ //Prototipacao
 int verificarPalindromo(char * );
 
 int main() {
@@ -34,12 +34,12 @@ int verificarPalindromo(char * P) {
 	esq = 0;
 	while(dir > esq) {
 		if(P[esq] != P[dir]) {
-			return 0; //falso - não é palíndromo
+			return 0; //falso - nao eh palindromo
 		}
 		else {
 			esq++;
 			dir--;
 		}
 	}
-  return 1; //verdadeiro - é um palíndromo
+  return 1; //verdadeiro - eh um palidromo
 }
