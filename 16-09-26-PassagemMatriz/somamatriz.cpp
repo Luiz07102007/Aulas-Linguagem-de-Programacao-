@@ -18,7 +18,7 @@ main()
 {
 	int matA[3][3] = {{3,6,2},{1,4,9},{5,6,7}}; //hard code
 	int matB[3][3] = {{2,1,9},{5,3,7},{8,2,6}}; //hard code
-	int matC[3][3] = {somarMatrizes(matA,matB)};
+	somarMatrizes(matA,matB);
 }
 
 int somarMatrizes(int A[][3],int B[][3])

@@ -18,11 +18,14 @@ main()
 
 int multiplicarMatrizes(int A[][2],int B[][3]) {
 	int C[3][3],i,j;
-	for(j=0;j<2;j++){
-		int C[i][j] = A[i][j]*B[i][j] + A[i+1][j]*B[i][j+1];
-	}
+	for(i=0;i<3;i++){
+		for(j=0;j<3;j++){
+			
+			}
+		}
 	imprimirMatrizes(A,B,C);
 }
+	
 
 void imprimirMatrizes(int A[][2],int B[][3],int C[][3])
 {
