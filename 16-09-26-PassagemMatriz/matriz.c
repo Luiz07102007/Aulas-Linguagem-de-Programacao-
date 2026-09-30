@@ -2,7 +2,7 @@
 	Name: matriz.cpp
 	Author: Luiz F Rodrigues
 	Date: 16/09/26 09:51 
-	Description: Programa para manipular matrizes dentro de uma função 
+	Description: Programa para manipular matrizes dentro de uma funÃ§Ã£o 
 */
 #include<stdio.h>
 
