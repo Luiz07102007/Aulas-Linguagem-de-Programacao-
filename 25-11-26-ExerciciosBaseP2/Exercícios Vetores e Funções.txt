@@ -1,0 +1,16 @@
+Exercícios Vetores e Funções:
+============================
+• Soma e média: Crie uma função que receba um vetor de float e seu tamanho n, e retorne a média dos valores.
+
+• Maior e menor: Faça uma função que encontre o maior elemento de um vetor de inteiros e outra que encontre o menor.
+
+• Contagem de ocorrências: Escreva uma função que receba um vetor, seu tamanho e um número x, retornando quantas vezes x aparece no vetor
+
+Exercícios Matrizes e Funções:
+==============================
+
+• Soma de uma linha: Escreva uma função somaLinha que receba uma matriz 4x4 e o índice de uma linha, retornando a soma dos elementos dessa linha.
+
+• Maior elemento e posição: Faça uma função que receba uma matriz 4x4 e retorne o maior valor encontrado nela (e, se quiser treinar ponteiros, também retorne sua linha e coluna).
+
+• Busca na matriz: Implemente uma função buscarValor que procure um número inteiro em uma matriz 3x3 e informe se ele existe ou não.

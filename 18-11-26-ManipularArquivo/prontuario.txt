@@ -1,0 +1,11 @@
+Nome : Luiz | Idade : 19 | Peso : 100.00 | Altura : 1.83 | Imc : 29.86| Situacao : Sobrepeso |
+
+ Nome : Rafael Arao | Idade : 19 | Peso : 80.00 | Altura : 1.80 | Imc : 24.69| Situacao : Normal |
+
+ Nome : Davi Costa | Idade : 18 | Peso : 69.00 | Altura : 1.67 | Imc : 24.74| Situacao : Normal |
+
+ Nome : Edgard Costa | Idade : 19 | Peso : 1.79 | Altura : 70.00 | Imc : 0.00| Situacao : Abaixo do normal |
+
+ Nome : Joao Victor | Idade : 19 | Peso : 67.00 | Altura : 1.87 | Imc : 19.16| Situacao : Normal |
+
+ 
